@@ -1,2 +1,2 @@
-# syukoshiishi.github.io
+# www.syukoshiishi.monster
 Just A Website
